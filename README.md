@@ -1,1 +1,1 @@
-<img src="https://example.com/image%20(36).png" width="200" alt="My Project">
+<img src="[https://example.com/image%20(36).png](https://media.discordapp.net/attachments/1009190351640219701/1301424301798588497/RedAbyss.png?ex=67246d54&is=67231bd4&hm=9cb074642cf91ccaafda490295f9a57e7fa54ffca7a80e4c768f71cd26182590&=&format=webp&quality=lossless&width=1440&height=410)" width="200" alt="My Project">
