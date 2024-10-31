@@ -9,6 +9,8 @@ I chose the name because it was just a menacing cool name for a map, and when I 
 <p align="center"><img src="https://github.com/CrazyPhrog/Red-Abyss/blob/main/Screenshot%202024-10-31%20014518.png"></p>
 
 The emphasis on the color red is a major contribution as it helps represent that this place is not just a normal prison especially when I'm making this map for Quake. 
+For More Info:
+https://youtu.be/ahNvABzC-Cg
 
 ### Progression
 There has nothing been as hellish as the progress of this map, which sadly because it has been so difficult to work on the maps and even test them for so long. I have not been able to keep track when it came to images but I can explain my struggles just even learning how to use Trenchbroom. What was painful was the fact that I had trouble compiling and launching the game because there were constant errors as I figured out what I wanted to design at my level, but I never seemed to give up. The design was probably the best part of working on this because it felt nice when I saw what the finalized version was gonna look like and it made me dedicated to pushing through and making it even though I was unable to test it out. 
